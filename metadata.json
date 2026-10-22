@@ -1,0 +1,6 @@
+{
+  "name": "Candidature ATS & Optimiseur Pro",
+  "description": "Optimisation de CV chirurgicale pour filtres ATS, rédaction de courriels d'accompagnement percutants, lettres de motivation Toi-Moi-Nous et courriels de relance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
